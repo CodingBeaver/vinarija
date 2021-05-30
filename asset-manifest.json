@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.baa26e3e.chunk.css",
-    "main.js": "/static/js/main.ea3423cd.chunk.js",
-    "main.js.map": "/static/js/main.ea3423cd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab73bdc2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab73bdc2.js.map",
-    "static/js/2.40d28a0c.chunk.js": "/static/js/2.40d28a0c.chunk.js",
-    "static/js/2.40d28a0c.chunk.js.map": "/static/js/2.40d28a0c.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.baa26e3e.chunk.css.map": "/static/css/main.baa26e3e.chunk.css.map",
-    "static/js/2.40d28a0c.chunk.js.LICENSE.txt": "/static/js/2.40d28a0c.chunk.js.LICENSE.txt",
-    "static/media/logo-pahulja2.86523dfd.png": "/static/media/logo-pahulja2.86523dfd.png",
-    "static/media/style-home.css": "/static/media/pexels-pixabay-39511.2a984659.jpg",
-    "static/media/wines.css": "/static/media/slika-boca.49e21779.jpg",
-    "static/media/vine-glass.365a8a62.png": "/static/media/vine-glass.365a8a62.png"
+    "main.css": "/vinarija/static/css/main.a05f3386.chunk.css",
+    "main.js": "/vinarija/static/js/main.ea3423cd.chunk.js",
+    "main.js.map": "/vinarija/static/js/main.ea3423cd.chunk.js.map",
+    "runtime-main.js": "/vinarija/static/js/runtime-main.b787eb74.js",
+    "runtime-main.js.map": "/vinarija/static/js/runtime-main.b787eb74.js.map",
+    "static/js/2.40d28a0c.chunk.js": "/vinarija/static/js/2.40d28a0c.chunk.js",
+    "static/js/2.40d28a0c.chunk.js.map": "/vinarija/static/js/2.40d28a0c.chunk.js.map",
+    "index.html": "/vinarija/index.html",
+    "static/css/main.a05f3386.chunk.css.map": "/vinarija/static/css/main.a05f3386.chunk.css.map",
+    "static/js/2.40d28a0c.chunk.js.LICENSE.txt": "/vinarija/static/js/2.40d28a0c.chunk.js.LICENSE.txt",
+    "static/media/logo-pahulja2.86523dfd.png": "/vinarija/static/media/logo-pahulja2.86523dfd.png",
+    "static/media/style-home.css": "/vinarija/static/media/pexels-pixabay-39511.2a984659.jpg",
+    "static/media/wines.css": "/vinarija/static/media/slika-boca.49e21779.jpg",
+    "static/media/vine-glass.365a8a62.png": "/vinarija/static/media/vine-glass.365a8a62.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab73bdc2.js",
+    "static/js/runtime-main.b787eb74.js",
     "static/js/2.40d28a0c.chunk.js",
-    "static/css/main.baa26e3e.chunk.css",
+    "static/css/main.a05f3386.chunk.css",
     "static/js/main.ea3423cd.chunk.js"
   ]
 }
